@@ -20,14 +20,14 @@ public class NonEmptyBST<T extends Comparable<T>> implements BST<T> {
 	@Override
 	public BST<T> insert(T element) {
 		//return what???
-		
+		return null;
 	}
 
 	// TODO: remove
 	@Override
 	public BST<T> remove(T element) {
 
-
+	return null;
 	}
 
 	// TODO: printPreOrderTraversal
